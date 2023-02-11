@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "The School is so cool!"
+<<<<<<< HEAD
+echo "The school is open!"
+=======
+echo "The school is open!"
+>>>>>>> origin/update_script
